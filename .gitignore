@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.tmp
+
+# Prevent accidental inclusion of production artifacts or raw media.
+*.zip
+*.unitypackage
+*.wav
+*.mp3
+Builds/
+Library/
+Logs/
+Temp/
+UserSettings/
