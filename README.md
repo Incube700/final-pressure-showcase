@@ -165,3 +165,9 @@ All repository contents are provided for portfolio viewing only. See [LICENSE.md
 - [Gameplay video](https://www.youtube.com/shorts/n8YMwUCsyCQ)
 - [BurnHeartGames on YouTube](https://www.youtube.com/@BurnheartGames)
 - [BurnHeartGames on Instagram](https://www.instagram.com/burnheartgames)
+
+## Also by BurnHeartGames
+
+[**Monster Overlord — Roblox gameplay prototype in development**](https://github.com/Incube700/monster-overlord-showcase)
+
+Raise defeated enemies, command an undead squad, and compete for the Crown. The showcase includes gameplay screenshots, a tower assembly video, game design documentation, architecture, and playtest notes.
